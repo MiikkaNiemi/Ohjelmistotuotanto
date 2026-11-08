@@ -1,2 +1,2 @@
 # Ohjelmistotuotanto
-Kurssin ohejlemistotuotanto repo
+Kurssin ohejelmistotuotanto repo
